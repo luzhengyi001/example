@@ -1,7 +1,7 @@
 #lang racket
 (require gigls/unsafe)
 ;;;File:
-;;; utils.rkt
+;;; example/utils.rkt
 ;;;Author:
 ;;; Zhengyi Lu
 ;;;Summary:
