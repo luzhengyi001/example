@@ -1,5 +1,12 @@
 #lang racket
 (require gigls/unsafe)
+;;;File:
+;;; utils.rkt
+;;;Author:
+;;; Zhengyi Lu
+;;;Summary:
+;;; A few sample utilities, created as a part of lab in GitHub
+;;;
 ;;; Procedure:
 ;;;   nums
 ;;; Parameters:
